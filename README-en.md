@@ -10,22 +10,22 @@
 
 ![TeXt Theme Details](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
 
-TeXt adalah tema Jekyll yang sangat dapat disesuaikan untuk situs pribadi, situs tim, blog, proyek, dokumentasi, dll. Mirip dengan gaya iOS 11, tema ini memiliki judul, tombol bulat, dan kartu yang besar dan menonjol.
+TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
 **[Change Log](https://github.com/rian010/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** |**[English](https://github.com/rian010/jekyll-TeXt-theme/blob/master/README-en.md)** **[中文](https://github.com/rian010/jekyll-TeXt-theme/blob/master/README-zh.md)** 
 
 ## Features
 
-- Responsif
+- Responsive
 - Semantic HTML
-- Skin / Warna
-- Highlight Theme / Sorot Tema
-- Bahasa Penginternasionalan / Multi Bahasa
-- Search / Pencarian
-- Daftar isi
-- Author / Penulis
-- Additional styles / Gaya tambahan (alert / peringatan, tag, gambar, ikon, tombol, grid, dll)
-- Ekstensi (audio, video, slide, demo)
+- Skins
+- Highlight Theme
+- Internationalization
+- Search
+- Table of contents
+- Authors
+- Additional styles (alert, tag, image, icon, button, grid, etc)
+- Extensions (audios, videos, slides, demos)
 - Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
 - Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
 - Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
@@ -35,7 +35,7 @@ TeXt adalah tema Jekyll yang sangat dapat disesuaikan untuk situs pribadi, situs
 
 ## Skins
 
-TeXt memiliki 6 skin bawaan, Anda juga dapat mengatur skin Anda sendiri.
+TeXt has 6 built-in skins, you can also set up your own skin.
 
 | `default` | `dark` | `forest` |
 | --- |  --- | --- |
@@ -47,7 +47,8 @@ TeXt memiliki 6 skin bawaan, Anda juga dapat mengatur skin Anda sendiri.
 
 ### Highlight Theme
 
-TeXt menggunakan [Tomorrow](https://github.com/chriskempson/tomorrow-theme) sebagai tema utama.
+TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/rian010/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
@@ -79,9 +80,9 @@ TeXt menggunakan [Tomorrow](https://github.com/chriskempson/tomorrow-theme) seba
 
 | Name | Description |
 | --- | --- |
-| [Home](https://rian010.github.io/jekyll-TeXt-theme/test/) | Halaman beranda |
-| [Archive](https://rian010.github.io/jekyll-TeXt-theme/archive.html) | Halaman arsip |
-| [Layout Examples](https://rian010.github.io/jekyll-TeXt-theme/samples.html) | Contoh untuk tata letak yang berbeda |
+| [Home](https://rian010.github.io/jekyll-TeXt-theme/test/) | Home page |
+| [Archive](https://rian010.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
+| [Layout Examples](https://rian010.github.io/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
 
 ## License
 
