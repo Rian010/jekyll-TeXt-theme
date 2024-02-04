@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://kitian616.github.io
+url     : https://rian010.github.io
 baseurl : /jekyll-TeXt-theme
 title   : TeXt Theme
 description: >
@@ -28,7 +28,7 @@ description: >
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
-timezone: Asia/Shanghai
+timezone: Asia/Makassar #Asia/Shanghai
 
 
 ## => Author and Social
@@ -41,23 +41,23 @@ author:
   bio: >
     TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
     Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
+  email     : #kitian616@outlook.com
   facebook  :
-  twitter   : kitian616
-  weibo     : 234695683
-  googleplus: 101827554735084402671
+  twitter   : #kitian616
+  weibo     : #234695683
+  googleplus: #101827554735084402671
   telegram  :
   medium    :
   zhihu     :
   douban    :
-  linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  linkedin  : rian010
+  github    : rian010/jekyll-TeXt-theme
   npm       :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/jekyll-TeXt-theme
+repository: rian010/jekyll-TeXt-theme
 repository_tree: master
 
 
